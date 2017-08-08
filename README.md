@@ -13,4 +13,6 @@
 
 [Урок 14_2](https://brainlesswild.github.io/13_2/ "Дз") - Штукатурка
 
+[Урок 15_1](https://brainlesswild.github.io/15_1/ "Дз") - Эффект при наведении
+
 
