@@ -15,4 +15,6 @@
 
 [Урок 15_1](https://brainlesswild.github.io/15_1/ "Дз") - Эффект при наведении
 
+[Урок 15_2](https://brainlesswild.github.io/15_2/ "Дз") - Адаптив штукатурки
+
 
