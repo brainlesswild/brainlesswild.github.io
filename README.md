@@ -7,4 +7,10 @@
 
 [Урок 13_1](https://brainlesswild.github.io/lesson_13_1/ "Дз") - Форма
 
+[Урок 13_2](https://brainlesswild.github.io/13_2/ "Дз") - Штукатурка
+
+[Урок 14_1](https://brainlesswild.github.io/14_1/ "Дз") - Скриптец
+
+[Урок 14_2](https://brainlesswild.github.io/13_2/ "Дз") - Штукатурка
+
 
