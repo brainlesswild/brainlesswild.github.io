@@ -19,4 +19,6 @@
 
 [Урок 16_1](https://brainlesswild.github.io/16_1/ "Дз") - Слайдер Fotorama
 
+[Урок 16_2](https://brainlesswild.github.io/16_2/ "Дз") - Слайдер для штукатурщиков
+
 
