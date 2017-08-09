@@ -17,4 +17,6 @@
 
 [Урок 15_2](https://brainlesswild.github.io/15_2/ "Дз") - Адаптив штукатурки
 
+[Урок 16_1](https://brainlesswild.github.io/16_1/ "Дз") - Слайдер Fotorama
+
 
