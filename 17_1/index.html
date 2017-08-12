@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+
+<div class="section">
+	<div class="container">
+		<div class="header">
+			<div class="row">
+				<div class="lol col-md-3 col-md-offset-3">
+				
+					<div class="hh">
+						<a href="#my-modal" data-toggle="modal">Ссылочка на модальное окошко</a>
+					</div>
+				
+				</div>
+
+
+				<div class="lol col-md-3">
+					<div class="wrap">
+						<div class="wrap-block">
+							<button class="btn btn-success" data-toggle="modal" data-target="#my-modal">	удалить файл
+							</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+	
+	
+
+	<div class="modal fade" id="my-modal">
+	<!-- само белое модальное окно -->
+	  <div class="modal-dialog" role="document">
+	  <!-- содержимое модального окна -->
+	    <div class="modal-content">
+	    <!-- шапка модального окна -->
+	      <div class="modal-header">
+	      	<!-- кнопка закрыть -->
+	        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+	        <!-- заголовок модального окна -->
+	        <h4 class="modal-title">Вы уверены, что хотите удалить файл?</h4>
+	      </div>
+	      <!-- тело модального окна -->
+	      <div class="modal-body">
+	        <p>Это действие необратимо&hellip;</p>
+	      </div>
+	      <!-- нижняя часть модального окна -->
+	      <div class="modal-footer">
+	        <button type="button" class="btn btn-default" data-dismiss="modal">да</button>
+	        <button type="button" class="btn btn-primary">нет</button>
+	      </div>
+	    </div><!-- /.modal-content -->
+	  </div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+
+
+
+	<script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+</body>
+</html>
