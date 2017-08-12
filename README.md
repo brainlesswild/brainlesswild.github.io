@@ -21,4 +21,5 @@
 
 [Урок 16_2](https://brainlesswild.github.io/16_2/ "Дз") - Слайдер для штукатурщиков
 
+[Урок 17_1](https://brainlesswild.github.io/17_1/ "Дз") - Всплываюшее окно от Bootstrap
 
